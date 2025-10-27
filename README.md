@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 
-<!--
+<--
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Jimihlawe&theme=gruvbox&border_radius=4.5) -->
 <details>
  <summary><h3>👨‍💻 Jimi's Coding Journey</h3></summary>
