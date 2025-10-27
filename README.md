@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 
-![Jimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=Jimihlawe&theme=gruvbox&border_radius=4.5)
+![Jimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=OfirAtias&theme=gruvbox&border_radius=4.5)
 
 #
 ### Socials
