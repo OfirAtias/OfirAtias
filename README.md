@@ -1,10 +1,6 @@
 <h1 align="center"> 🌸 Ofir Atias 🌸 </h1>
 <h3 align="center"> ✨ Computer Science Student ✨ </h3>
 
-<div align="center">
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="40" height="40">
-</div>
-
 <h2 align="center"> 🎀 Languages and Tools I Know 🎀 </h2>
 
 <div align="center">
