@@ -5,8 +5,6 @@
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="40" height="40">
 </div>
 
-<br>
-
 <h2 align="center"> 🎀 Languages and Tools I Know 🎀 </h2>
 
 <div align="center">
@@ -23,14 +21,12 @@
   <img alt="AWS" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
 </div>
 
-<br />
-
 <h2 align="center"> 💖 Connect With Me 💖 </h2>
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/OfirAtias/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/OfirAtias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-  <a href="https://discord.com/users/OfirAtias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/OfirAtias/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/OfirAtias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/OfirAtias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
 <h2 align="center"> 📊 My GitHub Stats 📈 </h2>
