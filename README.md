@@ -17,17 +17,17 @@
   <img alt="AWS" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
 </div>
 
-<h2 align="center"> 📊 My GitHub Stats 📈 </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&text_color=4A4A4A&icon_color=FFD1DC&border_color=FFC0CB" alt="Ofir's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=OfirAtias&bg_color=FFF0F5&title_color=FF69B4&text_color=4A4A4A&border_color=FFC0CB&ring=FF69B4" alt="GitHub Streak"/>
-</p>
-
 <h2 align="center"> Connect With Me 💖 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/OfirAtias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/ofiratias19_34957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+</p>
+
+<h2 align="center"> 📊 My GitHub Stats 📈 </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&bg_color=FBF7F700&title_color=FF69B4&text_color=4A4A4A&icon_color=FFD1DC&hide_border=true" alt="Ofir's GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=OfirAtias&bg_color=FBF7F700&title_color=FF69B4&text_color=4A4A4A&border_color=FFC0CB&ring=FF69B4&hide_border=true" alt="GitHub Streak"/>
 </p>
