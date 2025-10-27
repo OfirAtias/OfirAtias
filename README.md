@@ -2,7 +2,7 @@
 <h3 align="center"> ✨ Computer Science Student ✨ </h3>
 
 <div align="center">
-  <img alt="Waving Hand" src="https://media.giphy.com/media/hvRJkH7oGq8vX3h51L/giphy.gif" width="30px" style="vertical-align: middle;" />
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="40" height="40">
 </div>
 
 <br>
