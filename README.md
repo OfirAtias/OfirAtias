@@ -28,6 +28,5 @@
 <h2 align="center"> 📊 My GitHub Stats 📈 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&bg_color=FBF7F700&title_color=FF69B4&text_color=4A4A4A&icon_color=FFD1DC&hide_border=true" alt="Ofir's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=OfirAtias&bg_color=FBF7F700&title_color=FF69B4&text_color=4A4A4A&border_color=FFC0CB&ring=FF69B4&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&bg_color=FBF7F700&title_color=FF69B4&text_color=4A4A4A&icon_color=FFD1DC&hide_border=true" alt="Ofir's GitHub stats"/>|<img src="https://streak-stats.demolab.com/?user=OfirAtias&bg_color=FBF7F700&title_color=FF69B4&text_color=4A4A4A&ring=FF69B4&hide_border=true" alt="GitHub Streak"/>
 </p>
