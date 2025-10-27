@@ -1,5 +1,5 @@
-<h1 align="center"> 🌸 Ofir Atias 🌸 </h1>
-<h3 align="center"> ✨ Computer Science Student ✨ </h3>
+<h1 align="center"> Ofir Atias 👩‍💻 </h1>
+<h3 align="center"> Computer Science Student ✨ </h3>
 
 <h2 align="center"> 🎀 Languages and Tools I Know 🎀 </h2>
 
@@ -17,7 +17,7 @@
   <img alt="AWS" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
 </div>
 
-<h2 align="center"> 💖 Connect With Me 💖 </h2>
+<h2 align="center"> Connect With Me 💖 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -28,6 +28,6 @@
 <h2 align="center"> 📊 My GitHub Stats 📈 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&bg_color=FBF7F7&title_color=D5A6BD&text_color=4A4A4A&icon_color=E5C3C3&border_color=F2E5E9" alt="Ofir's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=OfirAtias&bg_color=FBF7F7&title_color=D5A6BD&text_color=4A4A4A&border_color=F2E5E9&ring=D5A6BD" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&text_color=4A4A4A&icon_color=FFD1DC&border_color=FFC0CB" alt="Ofir's GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=OfirAtias&bg_color=FFF0F5&title_color=FF69B4&text_color=4A4A4A&border_color=FFC0CB&ring=FF69B4" alt="GitHub Streak"/>
 </p>
