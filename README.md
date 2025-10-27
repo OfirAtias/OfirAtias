@@ -36,7 +36,6 @@
 <h2 align="center"> 📊 My GitHub Stats 📈 </h2>
 
 <p align="center">
-  ![Ofir's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&bg_color=FBF7F7&title_color=D5A6BD&text_color=4A4A4A&icon_color=E5C3C3&border_color=F2E5E9)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=OfirAtias&bg_color=FBF7F7&title_color=D5A6BD&text_color=4A4A4A&border_color=F2E5E9&ring=D5A6BD)
+  <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&bg_color=FBF7F7&title_color=D5A6BD&text_color=4A4A4A&icon_color=E5C3C3&border_color=F2E5E9" alt="Ofir's GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=OfirAtias&bg_color=FBF7F7&title_color=D5A6BD&text_color=4A4A4A&border_color=F2E5E9&ring=D5A6BD" alt="GitHub Streak"/>
 </p>
