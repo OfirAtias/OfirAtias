@@ -20,13 +20,6 @@
 
 
 <br />
-<br />
-Here are some ideas to get you started:
-
-🔭 I’m currently working on a full-stack **News Platform** and a **Unity RPG game project**  
-🌱 I’m currently learning **Cloud Deployment, AI APIs, and Game Systems Design**  
-👯 I’m looking to collaborate on **open-source web or indie game projects**  
-🤔 I’m looking for help with **improving performance in large-scale web apps**  
 
 
 
