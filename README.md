@@ -1,4 +1,4 @@
-<h1 align="center"> Ofir Atias 👩‍💻 </h1>
+<h1> Ofir Atias 👩‍💻 </h1>
 <h3 align="center"> Computer Science Student ✨ </h3>
 
 <h2 align="center"> 🎀 Languages and Tools I Know 🎀 </h2>
