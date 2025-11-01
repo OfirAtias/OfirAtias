@@ -17,7 +17,7 @@
   <img alt="AWS" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
 </div>
 
-<h2 align="center"> Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -25,7 +25,7 @@
   <a href="https://discord.com/users/ofiratias19_34957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
-<h2 align="center"> 📊 My GitHub Stats 📈 </h2>
+<h2 align="center">My GitHub Stats📈</h2>
 
 <p align="center" style="background-color:#FFF0F5; padding:15px; border-radius:12px;">
   <img 
