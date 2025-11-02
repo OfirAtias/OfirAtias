@@ -1,7 +1,7 @@
 <h1> Ofir Atias 👩‍💻 </h1>
 <h3> Computer Science Student ✨ </h3>
 
-<h2 align="center"> 🎀 Languages and Tools I Know 🎀 </h2>
+<h2 align="center">Languages and Tools I Know</h2>
 
 <div align="center">
   <img alt="HTML" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
