@@ -17,7 +17,7 @@
   <img alt="AWS" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
 </div>
 
-<h2>Connect With Me</h2>
+<h2>Connect With Me:)</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
