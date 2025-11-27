@@ -1,29 +1,34 @@
-<h1> Ofir Atias 👩‍💻 </h1>
-<h3> Computer Science Student</h3>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-<h2>Languages and Tools I Know</h2>
+    <h1> Ofir Atias 👩‍💻 </h1>
+    <h3> Computer Science Student</h3>
+    
+    <h2>Languages and Tools I Know</h2>
+    
+    <div class="tools-icons-container">
+      <img alt="HTML" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+      <img alt="CSS" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+        <img alt="JavaScript" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      <img alt="React" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img alt="MongoDB" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+      <img alt="SQL" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+      <img alt="Python" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+      <img alt="Java" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      <img alt="CSharp" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+      <img alt="GitHub" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/475654/github-color.svg" />
+      <img alt="AWS" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
+    </div> <h2>Connect</h2>
+    
+    <p class="social-icons-container">
+      <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+      <a href="https://www.github.com/OfirAtias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+      <a href="https://discord.com/users/ofiratias19_34957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+    </p>
 
-<div>
-  <img alt="HTML" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="React" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="MongoDB" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-  <img alt="SQL" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
-  <img alt="Python" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="Java" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="CSharp" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
-  <img alt="GitHub" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/475654/github-color.svg" />
-  <img alt="AWS" width="30px" style="padding: 10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
-</div>
-
-<h2>Connect</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/OfirAtias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://discord.com/users/ofiratias19_34957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-</p>
+</body>
 
 <h2>My GitHub Stats</h2>
 
