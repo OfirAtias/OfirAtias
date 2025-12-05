@@ -1,4 +1,4 @@
-<h1> Ofir Atias 👩‍💻 </h1>
+<h1> Ofir Atias</h1>
 <h3> Computer Science Student</h3>
 
 <h2>Languages</h2>
