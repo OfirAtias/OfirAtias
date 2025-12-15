@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Ofir%20Atias&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Dev&descAlignY=60&descSize=20&descColor=ffffff" width="100%" alt="Ofir Atias Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Ofir%20Atias&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Dev&descAlignY=60&descSize=20&descColor=ffffff" width="100%" alt="Ofir Atias Header"/>
 
   <p>
     <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank">
