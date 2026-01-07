@@ -45,6 +45,4 @@
     <img src="https://streak-stats.demolab.com/?user=OfirAtias&background=FFF0F5&title_color=FF1493&text_color=708090&ring=FF69B4&fire=FF69B4&currStreakNum=FF1493&sideNums=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=708090&hide_border=true" height="160" alt="Ofir's Streak" />
   </p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
