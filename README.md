@@ -16,7 +16,6 @@
   <br />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Coding+with+Style+%E2%9C%A8;Building+Cloud+Solutions+%E2%98%81%EF%B8%8F;React+%26+Full+Stack+Lover+%F0%9F%92%96" alt="Typing SVG" />
-
   <br />
 
   <h2>💖 My Tech Stack</h2>
