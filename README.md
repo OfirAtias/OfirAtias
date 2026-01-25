@@ -20,7 +20,7 @@
   
   <br /><br />
 
-  <h2>💖 My Tech Stack</h2>
+  <h2>My Tech Stack</h2>
   
   <p><b>Frontend & Mobile</b></p>
   <p>
