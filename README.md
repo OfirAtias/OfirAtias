@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=FF1493" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://github.com/OfirAtias" target="_blank">
+    <a href="https://github.com/OfirAtias" target=" blank">
       <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white&color=FF69B4" alt="GitHub" />
     </a>
     &nbsp;
