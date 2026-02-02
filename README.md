@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white" />
-
   <br /><br />
 
   <h2>GitHub Stats</h2>
