@@ -47,12 +47,12 @@
   <h2>GitHub Stats</h2>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&title_color=FF69B4&text_color=708090&icon_color=FF69B4&bg_color=00000000&hide_border=true&count_private=true" height="160" alt="Ofir's Stats" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&title_color=FF69B4&text_color=708090&icon_color=FF69B4&bg_color=00000000&hide_border=true&v=1" height="160" alt="Stats" />
     </td>
     <td width="20"></td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirAtias&layout=compact&title_color=FF69B4&text_color=708090&bg_color=00000000&hide_border=true&langs_count=6" height="160" alt="Ofir's Top Langs" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirAtias&layout=compact&title_color=FF69B4&text_color=708090&bg_color=00000000&hide_border=true&langs_count=6&v=1" height="160" alt="Languages" />
     </td>
   </tr>
 </table>
