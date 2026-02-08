@@ -48,11 +48,11 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&title_color=FF69B4&text_color=708090&icon_color=FF69B4&bg_color=00000000&hide_border=true&v=1" height="160" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&title_color=FF69B4&text_color=708090&icon_color=FF69B4&bg_color=00000000&hide_border=true&cache_seconds=1800" height="160" />
     </td>
     <td width="20"></td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirAtias&layout=compact&title_color=FF69B4&text_color=708090&bg_color=00000000&hide_border=true&langs_count=6&v=1" height="160" alt="Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirAtias&layout=compact&title_color=FF69B4&text_color=708090&bg_color=00000000&hide_border=true&langs_count=6&cache_seconds=1800" height="160" />
     </td>
   </tr>
 </table>
