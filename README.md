@@ -1,8 +1,12 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ofir+Atias" alt="Ofir Atias" />
+  <img src="https://on-demand-titles.vercel.app/api?title=Ofir%20Atias&color=FF69B4&font=Permanent+Marker&size=70" alt="Ofir Atias" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=708090&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <br />
+
+  <h3 style="color: #708090; font-weight: normal; margin-top: 10px;">
+    Computer Science Student | Full Stack Developer
+  </h3>
 
   <br />
 
@@ -22,23 +26,23 @@
 
   <br />
 
-  <h2 align="center">My Tech Stack</h2>
+  <h2 align="center" style="color: #708090;">My Tech Stack</h2>
   
-  <h3 align="center">Frontend & Mobile</h3>
+  <h3 align="center" style="color: #708090;">Frontend & Mobile</h3>
   <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
   <br /><br />
 
-  <h3 align="center">Backend & Core Languages</h3>
+  <h3 align="center" style="color: #708090;">Backend & Core Languages</h3>
   <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <br /><br />
 
-  <h3 align="center">Cloud & Databases</h3>
+  <h3 align="center" style="color: #708090;">Cloud & Databases</h3>
   <img src="https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white" />
