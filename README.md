@@ -53,7 +53,7 @@
       </td>
       <td width="20"></td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirAtias&layout=compact&title_color=FF69B4&text_color=708090&bg_color=transparent&hide_border=true&langs_count=6" height="160" alt="Ofir's Top Languages" />
+        <img src="https://streak-stats.demolab.com?user=OfirAtias&theme=default&hide_border=true&background=transparent&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&currStreakNum=708090&sideLabels=708090&sideNums=708090&dates=708090" height="160" alt="Ofir's Streak" />
       </td>
     </tr>
   </table>
