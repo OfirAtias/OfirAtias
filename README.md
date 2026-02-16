@@ -44,16 +44,17 @@
   <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br /><br />
 
-  <h2>GitHub Stats</h2>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&title_color=FF69B4&text_color=708090&icon_color=FF69B4&bg_color=00000000&hide_border=true&cache_seconds=1800" height="160" />
-    </td>
-    <td width="20"></td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirAtias&layout=compact&title_color=FF69B4&text_color=708090&bg_color=00000000&hide_border=true&langs_count=6&cache_seconds=1800" height="160" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">GitHub Stats</h2>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&title_color=FF69B4&text_color=708090&icon_color=FF69B4&bg_color=transparent&hide_border=true&cache_seconds=1800" height="160" alt="Ofir's GitHub Stats" />
+      </td>
+      <td width="20"></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfirAtias&layout=compact&title_color=FF69B4&text_color=708090&bg_color=transparent&hide_border=true&langs_count=6&cache_seconds=1800" height="160" alt="Ofir's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
