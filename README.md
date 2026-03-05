@@ -15,7 +15,6 @@
       <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=FFB6C1" alt="Discord" />
     </a>
   </p>
-
   <br />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Always+Learning+%26+Building;Developing+Web+Applications" alt="Typing SVG" />
