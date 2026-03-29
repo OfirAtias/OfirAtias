@@ -20,7 +20,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Always+Learning+%26+Building;Developing+Web+Applications" alt="Typing SVG" />
   
   <br /><br />
-
   <h2>My Tech Stack</h2>
   
   <b>Frontend & Mobile</b><br />
