@@ -43,9 +43,6 @@
   <h2>GitHub Stats</h2>
 <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse;">
   <tr>
-    <td style="border-right: 1px solid #444; padding-right: 25px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=OfirAtias&show_icons=true&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&bg_color=00000000&hide_border=true&border_radius=10" height="160" alt="Ofir's GitHub Stats" />
-    </td>
     <td style="padding-left: 25px;">
       <img src="https://streak-stats.demolab.com?user=OfirAtias&theme=dark&hide_border=true&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&currStreakNum=708090&sideLabels=708090&sideNums=708090&dates=708090" height="160" alt="Ofir's Streak" />
     </td>
