@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <br /><br />
-
   <b>Cloud & Databases</b><br />
   <img src="https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white" />
