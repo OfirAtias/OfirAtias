@@ -34,13 +34,4 @@
   <img src="https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br /><br />
-
-  <h2>GitHub Stats</h2>
-<table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse;">
-  <tr>
-    <td style="padding-left: 25px;">
-      <img src="https://streak-stats.demolab.com?user=OfirAtias&theme=dark&hide_border=true&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&currStreakNum=708090&sideLabels=708090&sideNums=708090&dates=708090" height="160" alt="Ofir's Streak" />
-    </td>
-  </tr>
-</table>
 </div>
