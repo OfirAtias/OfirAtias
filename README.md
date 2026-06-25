@@ -1,17 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Ofir%20Atias&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=60&descSize=20&descColor=ffffff" width="100%" alt="Ofir Atias Header"/>
   <p>
-    <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=FF1493" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/OfirAtias" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white&color=FF69B4" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/ofiratias19_34957" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=FFB6C1" alt="Discord" />
-    </a>
+<a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank">
+  <img src="https://img.shields.io/badge/CONNECT-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/OfirAtias" target="_blank">
+  <img src="https://img.shields.io/badge/FOLLOW-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/ofiratias19_34957" target="_blank">
+  <img src="https://img.shields.io/badge/CHAT-FFB6C1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
   </p>
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Always+Learning+%26+Building;Developing+Web+Applications" alt="Typing SVG" />
