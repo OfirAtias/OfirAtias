@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Ofir%20Atias&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=60&descSize=20&descColor=ffffff" width="100%" alt="Ofir Atias Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Ofir%20Atias&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate&descAlignY=60&descSize=20&descColor=ffffff" width="100%" alt="Ofir Atias Header"/>
   <p>
 <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank">
   <img src="https://img.shields.io/badge/CONNECT-FF1493?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493" alt="LinkedIn" />
@@ -14,7 +14,7 @@
 </a>
   </p>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Always+Learning+%26+Building;Developing+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Always+Learning+%26+Building;Developing+Web+Applications" alt="Typing SVG" />
   <br /><br />
   <h2>My Tech Stack</h2>
   <b>Frontend & Mobile</b><br />
