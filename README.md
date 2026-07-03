@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Ofir%20Atias&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate&descAlignY=60&descSize=20&descColor=ffffff" width="100%" alt="Ofir Atias Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Ofir%20Atias&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Ofir Atias Header"/>
   <p>
 <a href="https://www.linkedin.com/in/ofir-atias-394347321/" target="_blank">
   <img src="https://img.shields.io/badge/CONNECT-FF1493?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493" alt="LinkedIn" />
