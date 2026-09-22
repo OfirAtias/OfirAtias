@@ -1,6 +1,17 @@
 <div align="center">
 
-# Ofir Atias
+<svg width="420" height="70" viewBox="0 0 420 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pinkGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f472b6" />
+      <stop offset="50%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="url(#pinkGradient)" text-anchor="middle" letter-spacing="2">
+    OFIR ATIAS
+  </text>
+</svg>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=f472b6)](https://linkedin.com/in/ofir-atias)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=f472b6)](https://github.com/OfirAtias)
