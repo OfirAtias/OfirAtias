@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/OfirAtias">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=F472B6&center=true&vCenter=true&width=500&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=F472B6&center=true&vCenter=true&width=650&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=f472b6)](https://linkedin.com/in/ofir-atias)
