@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-> 🌸 *B.Sc. Computer Science Graduate | Solid foundation in programming, data analysis & hands-on problem solving*
+> 🌸 *B.Sc. Computer Science Graduate*
 
 ---
 
@@ -44,12 +44,5 @@
 
 * 📚 **LivingBooksAI** – Full-Stack AI reading platform built with React Native, ASP.NET Core, and SQL Server; integrates Gutenberg API with a RAG pipeline, REST APIs, and system validation.
 * 📰 **Smart News Website** – Responsive server-side web platform built with ASP.NET, JavaScript, HTML5/CSS3, and Firebase services for real-time notifications and dynamic content updates.
-
----
-
-### 📌 About Me
-- 🎓 **B.Sc. in Computer Science** from Ruppin Academic Center.
-- 💡 Experienced with cross-functional team collaboration, fast-paced environments, and technical instruction.
-- ⚙️ Hands-on background in equipment maintenance, strict protocol adherence, and system troubleshooting.
 
 </div>
