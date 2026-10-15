@@ -1,51 +1,50 @@
 <div align="center">
 
+<!-- Cool Aesthetic Banner -->
+<img src="https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7fac0e0967ce977eb6c8.gif" width="100%" height="200" style="object-fit: cover; border-radius: 15px;" alt="Pink Sakura Pixel Art Banner"/>
+
+<br>
+
 <!-- Animated Name & Title -->
 <a href="#">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
 <!-- Clean Pink Social Icons -->
-<a href="YOUR_LINKEDIN_URL"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23FFB6C1" height="28" alt="LinkedIn"/></a> &nbsp;&nbsp;
-<a href="YOUR_GITHUB_URL"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23FF69B4" height="28" alt="GitHub"/></a> &nbsp;&nbsp;
-<a href="YOUR_DISCORD_URL"><img src="https://api.iconify.design/simple-icons/discord.svg?color=%23DB7093" height="28" alt="Discord"/></a> &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23C71585" height="28" alt="Email"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23FFB6C1" height="32" alt="LinkedIn"/></a> &nbsp;&nbsp;
+<a href="YOUR_GITHUB_URL"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23FF69B4" height="32" alt="GitHub"/></a> &nbsp;&nbsp;
+<a href="YOUR_DISCORD_URL"><img src="https://api.iconify.design/simple-icons/discord.svg?color=%23DB7093" height="32" alt="Discord"/></a> &nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23C71585" height="32" alt="Email"/></a>
 
 </div>
 
-<br>
 <hr>
-<br>
 
 <h2 align="center"><font color="#FF69B4">✦ Technical Arsenal</font></h2>
 
 <div align="center">
-  <img src="https://api.iconify.design/simple-icons/python.svg?color=%23FF69B4" height="26" alt="Python" title="Python" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/csharp.svg?color=%23FFB6C1" height="26" alt="C#" title="C#" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/mdi/language-java.svg?color=%23FF1493" height="28" alt="Java" title="Java" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23DB7093" height="26" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/react.svg?color=%23FF69B4" height="26" alt="React" title="React" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/dotnet.svg?color=%23FFB6C1" height="26" alt="ASP.NET Core" title="ASP.NET Core" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/html5.svg?color=%23DB7093" height="26" alt="HTML5" title="HTML5" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/css3.svg?color=%23FF69B4" height="26" alt="CSS3" title="CSS3" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF69B4" height="26" alt="AWS" title="AWS" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/microsoftsqlserver.svg?color=%23FF1493" height="26" alt="SQL Server" title="SQL Server" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%23DB7093" height="26" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/firebase.svg?color=%23FF69B4" height="26" alt="Firebase" title="Firebase" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/git.svg?color=%23FFB6C1" height="26" alt="Git" title="Git" />
+  <img src="https://api.iconify.design/simple-icons/python.svg?color=%23FF69B4" height="32" alt="Python" title="Python" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/csharp.svg?color=%23FFB6C1" height="32" alt="C#" title="C#" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/mdi/language-java.svg?color=%23FF1493" height="34" alt="Java" title="Java" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23DB7093" height="32" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/react.svg?color=%23FF69B4" height="32" alt="React" title="React" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/dotnet.svg?color=%23FFB6C1" height="32" alt="ASP.NET Core" title="ASP.NET Core" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/html5.svg?color=%23DB7093" height="32" alt="HTML5" title="HTML5" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/css3.svg?color=%23FF69B4" height="32" alt="CSS3" title="CSS3" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF69B4" height="32" alt="AWS" title="AWS" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/microsoftsqlserver.svg?color=%23FF1493" height="32" alt="SQL Server" title="SQL Server" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%23DB7093" height="32" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/firebase.svg?color=%23FF69B4" height="32" alt="Firebase" title="Firebase" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/git.svg?color=%23FFB6C1" height="32" alt="Git" title="Git" />
 </div>
 
-<br>
 <hr>
-<br>
 
 <div align="center">
   <h2><font color="#FF69B4">🌸 Featured Projects 🌸</font></h2>
 </div>
-
-<br>
 
 <!-- Projects Displayed as "Cards" -->
 <table width="100%" style="border-collapse: collapse; border: none;">
