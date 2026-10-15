@@ -28,11 +28,9 @@
   <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23DB7093" height="26" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/react.svg?color=%23FF69B4" height="26" alt="React" title="React" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/dotnet.svg?color=%23FFB6C1" height="26" alt="ASP.NET Core" title="ASP.NET Core" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%23FF1493" height="26" alt="Node.js" title="Node.js" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/html5.svg?color=%23DB7093" height="26" alt="HTML5" title="HTML5" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/css3.svg?color=%23FF69B4" height="26" alt="CSS3" title="CSS3" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF69B4" height="26" alt="AWS" title="AWS" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/docker.svg?color=%23FFB6C1" height="26" alt="Docker" title="Docker" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/microsoftsqlserver.svg?color=%23FF1493" height="26" alt="SQL Server" title="SQL Server" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%23DB7093" height="26" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/firebase.svg?color=%23FF69B4" height="26" alt="Firebase" title="Firebase" /> &nbsp;&nbsp;
