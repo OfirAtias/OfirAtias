@@ -1,86 +1,78 @@
-<div align="left">
+<div align="center">
 
-<!-- Animated Typing Text -->
+<!-- Animated Name & Title -->
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=FF69B4&center=false&vCenter=false&width=500&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- Solid Pink Pill-Shaped Social Buttons -->
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-FFB6C1?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub-FF69B4?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Discord-DB7093?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Email-C71585?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+<!-- Clean Pink Social Icons -->
+<a href="YOUR_LINKEDIN_URL"><img src="https://cdn.simpleicons.org/linkedin/FFB6C1" height="40" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_GITHUB_URL"><img src="https://cdn.simpleicons.org/github/FF69B4" height="40" alt="GitHub"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_DISCORD_URL"><img src="https://cdn.simpleicons.org/discord/DB7093" height="40" alt="Discord"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL"><img src="https://cdn.simpleicons.org/gmail/C71585" height="40" alt="Email"/></a>
+
+</div>
+
+<br><br>
+<hr>
+<br>
+
+<div align="left">
+
+## <font color="#FF69B4">✦ Technical Arsenal</font>
+
+### <font color="#FFB6C1">Core Languages</font>
+<img src="https://cdn.simpleicons.org/python/FF69B4" height="45" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/csharp/FFB6C1" height="45" alt="C#" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/java/FF1493" height="45" alt="Java" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/DB7093" height="45" alt="JavaScript" />
 
 <br><br>
 
-### ✨ <font color="#FF69B4">Technical Arsenal</font>
-
-**Languages**<br>
-<img src="https://img.shields.io/badge/-Python-FF1493?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-C%23-FF1493?style=flat&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-FF1493?style=flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-FF1493?style=flat&logo=javascript&logoColor=white" />
-
-<br><br>
-
-**Web & Frameworks**<br>
-<img src="https://img.shields.io/badge/-React-DB7093?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/-React_Native-DB7093?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/-ASP.NET_Core-DB7093?style=flat&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/-Node.js-DB7093?style=flat&logo=node.js&logoColor=white" />
+### <font color="#FFB6C1">Web & Frameworks</font>
+<img src="https://cdn.simpleicons.org/react/FF69B4" height="45" alt="React" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/dotnet/FFB6C1" height="45" alt="ASP.NET Core" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/FF1493" height="45" alt="Node.js" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/DB7093" height="45" alt="HTML5" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/FF69B4" height="45" alt="CSS3" />
 
 <br><br>
 
-**Databases, Cloud & Architecture**<br>
-<img src="https://img.shields.io/badge/-AWS-C71585?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-C71585?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL_Server-C71585?style=flat&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-C71585?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Firebase-C71585?style=flat&logo=firebase&logoColor=white" />
+### <font color="#FFB6C1">Databases & Cloud Architecture</font>
+<img src="https://cdn.simpleicons.org/amazonaws/FF69B4" height="45" alt="AWS" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/FFB6C1" height="45" alt="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/FF1493" height="45" alt="SQL Server" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/DB7093" height="45" alt="MongoDB" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/firebase/FF69B4" height="45" alt="Firebase" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/FFB6C1" height="45" alt="Git" />
 
-<br><br>
-<hr style="border-color: #FF69B4;">
+<br><br><br>
 
-### 💻 <font color="#FF69B4">Featured Engineering & Research Projects</font>
+## <font color="#FF69B4">✦ Featured Projects</font>
 
-<details open>
-<summary><b><font size="3">📚 LivingBooksAI — AI-Powered Mobile Reading Ecosystem</font></b></summary>
-<br>
-Spearheaded the end-to-end development of an immersive mobile reading platform housing over 4,000 titles. The application revolutionizes digital storytelling by integrating narrated audio, AI-generated chapter summaries, custom imagery, and animated speaking characters. 
-<br><br>
-<b>Architecture:</b> Architected a highly scalable infrastructure bridging a responsive <b>React Native (Expo)</b> frontend with a robust, Dockerized <b>ASP.NET Core</b> backend, effectively managing complex data relationships across <b>SQL Server</b>.
-<br>
-<i>Status: Pre-release (Backend and Android test builds actively deployed).</i>
-</details>
+### <font color="#FFB6C1">📚 LivingBooksAI — AI-Powered Mobile Reading Ecosystem</font>
+A full-stack mobile reading application featuring over 4,000 books, designed to bring stories to life. Features include animated speaking characters, narrated audio, AI-generated chapter summaries, and custom imagery. My end-to-end contribution spans the mobile interface, backend architecture, robust database management, AI integrations, and cloud deployment.
+> **Tech Stack:** React Native, Expo, ASP.NET Core, SQL Server, Docker <br>
+> **Status:** Pre-release, with a deployed backend and Android test builds.
 
 <br>
 
-<details open>
-<summary><b><font size="3">🕸️ GitHub Developer Network Analysis — Graph Machine Learning</font></b></summary>
-<br>
-Executed an intensive data science research project analyzing a massive GitHub social graph containing 37,700 developer nodes and 289,003 mutual-follow edges. The study effectively classifies professional domains (Web vs. Machine Learning) and predicts hidden network links.
-<br><br>
-<b>Methodology:</b> Contrasted structural network properties (Louvain modularity, centrality, Preferential Attachment) and learned representations (DeepWalk, Node2Vec) against sparse content features. Engineered with extreme analytical rigor, implementing strict data-leakage prevention, reproducible Jupyter Notebook pipelines, and statistical validation against degree-preserving null models.
-</details>
+### <font color="#FFB6C1">🕸️ GitHub Developer Network Analysis — Graph Machine Learning</font>
+An intensive data science and machine learning research project analyzing a massive GitHub social graph (37,700 developer nodes, 289,003 mutual-follow edges). The study investigates how accurately a developer's professional field (Web vs. Machine Learning) can be predicted using network neighborhoods, centrality, graph embeddings, and sparse content features. 
+> **Methodology:** Engineered with strict data-leakage prevention, reproducible Jupyter Notebook pipelines, and statistical validation against degree-preserving null models. Contrasted structural network properties (Louvain modularity, Preferential Attachment) with learned representations (DeepWalk, Node2Vec).
 
 <br>
 
-<details open>
-<summary><b><font size="3">📰 AI-Driven Smart News Platform</font></b></summary>
-<br>
-Engineered a comprehensive, full-stack news aggregation platform enriched with generative AI capabilities via the <b>OpenAI API</b>. The system delivers personalized content feeds, auto-generates article imagery and contextual tags, and supports real-time social interactions.
-<br><br>
-<b>Features:</b> Includes private sharing, comment sections, dynamic avatar progression based on user activity, and a dedicated administration dashboard for content moderation. Developed using <b>JavaScript, ASP.NET Core, SQL Server, and Firebase</b>.
-</details>
+### <font color="#FFB6C1">📰 AI-Driven Smart News Platform</font>
+A comprehensive, full-stack news platform enriched with generative AI capabilities via the OpenAI API. The system delivers personalized content feeds, auto-generates article imagery and contextual tags, and supports real-time social interactions. Features include saved stories, comment sections, dynamic avatar progression, and a dedicated administration dashboard for content moderation.
+> **Tech Stack:** JavaScript, ASP.NET Core, SQL Server, Firebase, OpenAI
 
 <br>
 
-<details open>
-<summary><b><font size="3">🌊 AWS Drowning Detection System</font></b></summary>
-<br>
-A cloud-native IoT and computer vision initiative designed to enhance aquatic safety. By leveraging <b>AWS Cloud services</b> to process and analyze video feeds, the system is designed to recognize behavioral patterns indicative of drowning, enabling rapid alerts and proactive pool-safety monitoring.
-</details>
+### <font color="#FFB6C1">🌊 AWS Drowning Detection System</font>
+A cloud-native computer vision initiative designed to enhance aquatic safety. By leveraging AWS Cloud services to process and analyze video feeds, the system recognizes behavioral patterns indicative of potential drowning events, enabling rapid alerts and proactive pool-safety monitoring.
+> **Tech Stack:** AWS, Cloud Computing, Computer Vision
 
 </div>
