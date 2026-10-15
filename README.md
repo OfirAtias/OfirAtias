@@ -1,48 +1,55 @@
 <div align="center">
+  
+# Hi, I'm Ofir Atias 👋
+### B.Sc. Computer Science Graduate 🎓 | System Integration, QA & Operations
 
-<a href="https://github.com/OfirAtias">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=F472B6&center=true&vCenter=true&width=650&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=f472b6)](https://linkedin.com/in/ofir-atias)
-[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=f472b6)](https://github.com/OfirAtias)
-[![Email](https://img.shields.io/badge/Email-be185d?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:Ofir82765@gmail.com)
-
-<br/><br/>
-
-> 🌸 *B.Sc. Computer Science Graduate*
-
----
-
-### ✨ Tech Stack
-
-#### **Core Languages**
-![Python](https://img.shields.io/badge/Python-831843?style=flat-square&logo=python&logoColor=ffffff)
-![C#](https://img.shields.io/badge/C%23-831843?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-831843?style=flat-square&logo=openjdk&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-831843?style=flat-square&logo=javascript&logoColor=ffffff)
-
-#### **Web & Frameworks**
-![React](https://img.shields.io/badge/React-2e1065?style=flat-square&logo=react&logoColor=f472b6)
-![React Native](https://img.shields.io/badge/React_Native-2e1065?style=flat-square&logo=react&logoColor=f472b6)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2e1065?style=flat-square&logo=dotnet&logoColor=f472b6)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-2e1065?style=flat-square&logo=dotnet&logoColor=f472b6)
-![HTML5 / CSS3](https://img.shields.io/badge/HTML5%20%2F%20CSS3-2e1065?style=flat-square&logo=html5&logoColor=f472b6)
-
-#### **Databases, Cloud & Tools**
-![SQL Server](https://img.shields.io/badge/SQL_Server-1f2937?style=flat-square&logo=microsoft-sql-server&logoColor=f472b6)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=f472b6)
-![AWS](https://img.shields.io/badge/AWS-1f2937?style=flat-square&logo=amazon-aws&logoColor=f472b6)
-![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=f472b6)
-![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=f472b6)
-
----
-
-### 💻 Featured Projects
-
-* 📚 **LivingBooksAI** – Full-Stack AI reading platform built with React Native, ASP.NET Core, and SQL Server; integrates Gutenberg API with a RAG pipeline, REST APIs, and system validation.
-* 📰 **Smart News Website** – Responsive server-side web platform built with ASP.NET, JavaScript, HTML5/CSS3, and Firebase services for real-time notifications and dynamic content updates.
+*Focused on system architecture, software quality, and translating complex requirements into reliable technological solutions.*
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Core Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web & Frameworks:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Databases, Cloud & Tools:**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 [LivingBooksAI (Bookify)](#)
+**Full-Stack Mobile Application**
+*   **Overview:** A comprehensive mobile application designed to enhance reading experiences, developed as a final academic project.
+*   **Architecture & QA:** Focused on end-to-end system integration, REST API validation, and robust database management to ensure seamless data flow.
+*   **Tech:** React Native, ASP.NET Core, SQL, MongoDB, Gutenberg API.
+
+### ☁️ [Real-Time Drowning Detection System](#)
+**AWS Serverless Architecture**
+*   **Overview:** A cloud-based IoT solution designed to process real-time alerts and data streams for emergency response.
+*   **Architecture & QA:** Emphasized cloud infrastructure scalability, system reliability, and real-time operational flows.
+*   **Tech:** AWS Serverless Services, IoT Integration.
+
+### 📰 [Smart News Website](#)
+**Dynamic Web Platform**
+*   **Overview:** A responsive, server-side rendered news portal featuring real-time notifications and dynamic content management.
+*   **Architecture & QA:** Implemented strict data validation, seamless integration with third-party services, and user acceptance testing (UAT) principles.
+*   **Tech:** ASP.NET, JavaScript, HTML/CSS, Firebase.
