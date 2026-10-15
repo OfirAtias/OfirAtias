@@ -13,16 +13,13 @@
 <a href="#"><img src="https://img.shields.io/badge/Discord-DB7093?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br><br>
-
 ### ✨ <font color="#FF69B4">Technical Arsenal</font>
 
-<!-- Pink Themed Tech Stack Badges -->
 **Languages**<br>
-<img src="https://img.shields.io/badge/Python-FF1493?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-FF1493?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-FF1493?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FF1493?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FF1493?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-FF1493?style=flat&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FF1493?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FF1493?style=flat&logo=javascript&logoColor=white" />
 
 <br>
 
