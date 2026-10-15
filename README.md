@@ -6,7 +6,6 @@
 </a>
 
 <br><br>
-
 <!-- Clean Pink Social Icons -->
 <a href="YOUR_LINKEDIN_URL"><img src="https://cdn.simpleicons.org/linkedin/FFB6C1" height="40" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="YOUR_GITHUB_URL"><img src="https://cdn.simpleicons.org/github/FF69B4" height="40" alt="GitHub"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +16,6 @@
 
 <br><br>
 <hr>
-<br>
 
 <div align="left">
 
@@ -29,7 +27,7 @@
 <img src="https://cdn.simpleicons.org/java/FF1493" height="45" alt="Java" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/DB7093" height="45" alt="JavaScript" />
 
-<br><br>
+<br>
 
 ### <font color="#FFB6C1">Web & Frameworks</font>
 <img src="https://cdn.simpleicons.org/react/FF69B4" height="45" alt="React" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +36,7 @@
 <img src="https://cdn.simpleicons.org/html5/DB7093" height="45" alt="HTML5" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/css3/FF69B4" height="45" alt="CSS3" />
 
-<br><br>
+<br>
 
 ### <font color="#FFB6C1">Databases & Cloud Architecture</font>
 <img src="https://cdn.simpleicons.org/amazonaws/FF69B4" height="45" alt="AWS" /> &nbsp;&nbsp;&nbsp;&nbsp;
