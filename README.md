@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
 </a>
 
-<br><br>
 <!-- Clean Pink Social Icons -->
 <a href="YOUR_LINKEDIN_URL"><img src="https://cdn.simpleicons.org/linkedin/FFB6C1" height="40" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="YOUR_GITHUB_URL"><img src="https://cdn.simpleicons.org/github/FF69B4" height="40" alt="GitHub"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
