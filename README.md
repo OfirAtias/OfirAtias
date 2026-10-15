@@ -67,15 +67,17 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
+    <!-- Project 3 -->
     <td width="50%" valign="top" style="border: 1px solid #FFB6C1; padding: 15px; border-radius: 10px;">
-      <h3><font color="#FF69B4">🌐 Smart News Platform</font></h3>
-      <p>Full-stack news platform enriched with generative AI via OpenAI API, offering personalized feeds, auto-generated tags, and real-time social interactions.</p>
-      <b>Tech Stack:</b> JavaScript, ASP.NET Core, SQL Server, Firebase, OpenAI
+      <h3><font color="#FF69B4">📰 Smart News Platform</font></h3>
+      <p>Full-stack news platform enriched with generative AI via OpenAI API, offering personalized feeds and auto-generated tags.</p>
+      <b>Tech:</b> JavaScript, ASP.NET, Firebase, OpenAI
     </td>
+    <!-- Project 4 -->
     <td width="50%" valign="top" style="border: 1px solid #FFB6C1; padding: 15px; border-radius: 10px;">
       <h3><font color="#FF69B4">🚨 AWS Drowning Detection</font></h3>
-      <p>Cloud-native computer vision initiative analyzing video feeds to recognize behavioral patterns indicative of potential drowning events, enabling rapid alerts.</p>
-      <b>Tech Stack:</b> AWS, Cloud Computing, Computer Vision
+      <p>Cloud-native computer vision initiative analyzing video feeds to recognize behavioral patterns indicative of drowning.</p>
+      <b>Tech:</b> AWS, Computer Vision, IoT
     </td>
   </tr>
 </table>
