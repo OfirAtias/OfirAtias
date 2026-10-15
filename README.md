@@ -1,26 +1,28 @@
-<div align="center">
-
-<!-- Cool Aesthetic Banner -->
-<img src="https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7fac0e0967ce977eb6c8.gif" width="100%" height="200" style="object-fit: cover; border-radius: 15px;" alt="Pink Sakura Pixel Art Banner"/>
-
-<br>
-
-<!-- Animated Name & Title -->
-<a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
-</a>
-
-<br>
-
-<!-- Clean Pink Social Icons -->
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- צד שמאל: שם, תואר וקישורים -->
+    <td width="65%" valign="middle" style="border: none;">
+      <!-- Animated Name & Title -->
+      <a href="#">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=FF69B4&center=false&vCenter=false&width=500&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
+      </a>
+      
+      <br><br>
+      
+    <!-- Clean Pink Social Icons -->
 <a href="https://www.linkedin.com/in/ofir-atias-394347321/?isSelfProfile=true"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23FFB6C1" height="32" alt="LinkedIn"/></a> &nbsp;&nbsp;
-<a href="https://github.com/OfirAtias"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23FF69B4" height="32" alt="GitHub"/></a> &nbsp;&nbsp;
-<a href="https://discordapp.com/users/1209519215661420554"><img src="https://api.iconify.design/simple-icons/discord.svg?color=%23DB7093" height="32" alt="Discord"/></a> &nbsp;&nbsp;
-<a href="mailto:Ofir82765@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23C71585" height="32" alt="Email"/></a>
+      <a href="https://github.com/OfirAtias"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23FF69B4" height="32" alt="GitHub"/></a> &nbsp;&nbsp;
+      <a href="https://discordapp.com/users/1209519215661420554"><img src="https://api.iconify.design/simple-icons/discord.svg?color=%23DB7093" height="32" alt="Discord"/></a> &nbsp;&nbsp;
+      <a href="mailto:Ofir82765@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23C71585" height="32" alt="Email"/></a>
+    </td>
+    
+    <!-- צד ימין: תמונת הים והכוכב ים -->
+   <td width="35%" align="center" style="border: none;">
+    <img src="https://github.com/user-attachments/assets/f0dc9abc-6d57-4761-a8e2-595f05d907de" width="220" style="border-radius: 15px;" alt="Ocean Starfish"/>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<hr>
 
 <h2 align="center"><font color="#FF69B4">✦ Technical Arsenal</font></h2>
 
