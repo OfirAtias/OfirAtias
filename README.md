@@ -1,25 +1,17 @@
 <table border="0" cellpadding="15" cellspacing="0" width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
-    
-    <!-- צד שמאל: שם, תואר וקישורים -->
-  <td width="60%" valign="middle" style="border: none; background: transparent;">
-   <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=2000&color=FF69B4&center=false&vCenter=false&width=600&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
-      </a>
-  <br><br><br>
-      
-      <!-- Clean Pink Social Icons -->
- <a href="https://www.linkedin.com/in/ofir-atias-394347321/?isSelfProfile=true"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23FFB6C1" height="32" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;
+    <td width="60%" valign="middle" style="border: none; background: transparent;">
+      <a href="#">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=2000&color=FF69B4&center=false&vCenter=false&width=600&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
+      </a><br><br><br>
+      <a href="https://www.linkedin.com/in/ofir-atias-394347321/?isSelfProfile=true"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23FFB6C1" height="32" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;
       <a href="https://github.com/OfirAtias"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23FF69B4" height="32" alt="GitHub"/></a> &nbsp;&nbsp;&nbsp;
       <a href="https://discordapp.com/users/1209519215661420554"><img src="https://api.iconify.design/simple-icons/discord.svg?color=%23DB7093" height="32" alt="Discord"/></a> &nbsp;&nbsp;&nbsp;
       <a href="mailto:Ofir82765@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23C71585" height="32" alt="Email"/></a>
     </td>
-    
-    <!-- צד ימין: תמונת הים והכוכב ים -->
-   <td width="40%" align="right" valign="middle" style="border: none; background: transparent;">
-   <img src="https://github.com/user-attachments/assets/f0dc9abc-6d57-4761-a8e2-595f05d907de" width="240" style="border-radius: 15px;" alt="Ocean Flower"/>
+    <td width="40%" align="right" valign="middle" style="border: none; background: transparent;">
+      <img src="https://github.com/user-attachments/assets/f0dc9abc-6d57-4761-a8e2-595f05d907de" width="240" style="border-radius: 15px;" alt="Ocean Flower"/>
     </td>
-    
   </tr>
 </table>
 
