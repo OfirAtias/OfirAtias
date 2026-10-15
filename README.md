@@ -43,22 +43,26 @@
 <hr>
 <br>
 
-<h2 align="center"><font color="#FF69B4">✦ Featured Projects</font></h2>
+<div align="center">
+  <h2><font color="#FF69B4">🌸 Featured Projects 🌸</font></h2>
+</div>
 
 <br>
 
+<!-- Projects Displayed as "Cards" -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
+    <!-- Project 1 -->
     <td width="50%" valign="top" style="border: 1px solid #FFB6C1; padding: 15px; border-radius: 10px;">
       <h3><font color="#FF69B4">📚 LivingBooksAI</font></h3>
       <p>A full-stack mobile reading application featuring over 4,000 books, animated speaking characters, and AI-generated imagery.</p>
-      <b>Tech Stack:</b> React Native, Expo, ASP.NET Core, SQL Server, Docker<br><br>
-      <i>Status: Pre-release, with a deployed backend and Android test builds.</i>
+      <b>Tech:</b> React Native, ASP.NET Core, SQL Server
     </td>
+    <!-- Project 2 -->
     <td width="50%" valign="top" style="border: 1px solid #FFB6C1; padding: 15px; border-radius: 10px;">
-      <h3><font color="#FF69B4">🧠 GitHub Network Analysis</font></h3>
-      <p>Data science research analyzing a graph of 37,700 developers. Investigates predicting professional fields using network neighborhoods, centrality, and graph embeddings.</p>
-      <b>Tech Stack:</b> Python, Graph Machine Learning, DeepWalk, Node2Vec
+      <h3><font color="#FF69B4">🕸️ GitHub Network Analysis</font></h3>
+      <p>Data science research analyzing a graph of 37,700 developers using network neighborhoods, centrality, and embeddings.</p>
+      <b>Tech:</b> Python, Graph Machine Learning, DeepWalk
     </td>
   </tr>
 </table>
