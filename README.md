@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/user-attachments/assets/f0dc9abc-6d57-4761-a8e2-595f05d907de" width="220" style="border-radius: 15px;" alt="Ocean Flower"/>
+<img align="right" src="https://github.com/user-attachments/assets/f0dc9abc-6d57-4761-a8e2-595f05d907de" width="180" style="border-radius: 12px;" alt="Ocean Flower"/>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=2000&color=FF69B4&center=false&vCenter=false&width=450&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=2000&color=FF69B4&center=false&vCenter=false&width=550&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" /></a>
 <br><br>
 <a href="https://www.linkedin.com/in/ofir-atias-394347321/?isSelfProfile=true"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23FFB6C1" height="32" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/OfirAtias"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23FF69B4" height="32" alt="GitHub"/></a> &nbsp;&nbsp;&nbsp;
