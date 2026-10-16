@@ -28,7 +28,8 @@
   <img src="https://api.iconify.design/simple-icons/microsoftsqlserver.svg?color=%23FF1493" height="32" alt="SQL Server" title="SQL Server" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%23DB7093" height="32" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/git.svg?color=%23FFB6C1" height="32" alt="Git" title="Git" /> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/github.svg?color=%23FF69B4" height="32" alt="GitHub" title="GitHub" />
+  <img src="https://api.iconify.design/simple-icons/github.svg?color=%23FF69B4" height="32" alt="GitHub" title="GitHub" /> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23FF1493" height="32" alt="OpenAI / Prompt Engineering" title="OpenAI / Prompt Engineering" />
 </div>
 
 <hr>
