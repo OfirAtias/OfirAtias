@@ -2,8 +2,6 @@
   <!-- התמונה מיושרת לימין -->
   <img align="right" src="https://github.com/user-attachments/assets/f0dc9abc-6d57-4761-a8e2-595f05d907de" width="240" style="border-radius: 15px;" alt="Ocean Flower"/>
   
-  <br><br>
-  
   <!-- השם המונפש בצד שמאל -->
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=2000&color=FF69B4&center=false&vCenter=false&width=600&lines=Ofir+Atias;B.Sc.+Computer+Science+Graduate" alt="Typing SVG" />
