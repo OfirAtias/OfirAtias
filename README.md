@@ -19,7 +19,11 @@
 <br clear="both"/>
 
 
-<h2 align="center"><font color="#FF69B4">✦ Technical Arsenal</font></h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/mdi/sparkles.svg?color=%23FF69B4" height="28" align="center" />
+  <font color="#FF69B4">Technical Arsenal</font>
+  <img src="https://api.iconify.design/mdi/sparkles.svg?color=%23FF69B4" height="28" align="center" />
+</h2>
 
 <div align="center">
   <img src="https://api.iconify.design/simple-icons/python.svg?color=%23FF69B4" height="32" alt="Python" title="Python" /> &nbsp;&nbsp;
